@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color (Button color, sliders, etc.) - Currently set to a "Nirmaan" style Blue
+primaryColor = "#0066CC"
+
+# Background color of the main content area
+backgroundColor = "#FFFFFF"
+
+# Background color of sidebar and input fields
+secondaryBackgroundColor = "#F0F2F6"
+
+# Text color
+textColor = "#262730"
+
+# Font family
+font = "sans serif"

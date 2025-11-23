@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+spacy
+language-tool-python
+vaderSentiment
+numpy
+scikit-learn
+torch
