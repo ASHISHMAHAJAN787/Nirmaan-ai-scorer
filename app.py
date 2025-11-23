@@ -14,12 +14,8 @@ st.set_page_config(
 )
 @st.cache_resource
 def load_models():
-    # Load NLP model for basic tokenization
-    try:
-        nlp = spacy.load("en_core_web_sm")
-    except:
-        spacy.cli.download("en_core_web_sm")
-        nlp = spacy.load("en_core_web_sm")
+    # Load NLP model (It is now installed via requirements.txt)
+    nlp = spacy.load("en_core_web_sm")
     
     # Load Sentence Transformer for Semantic Matching [cite: 18]
     # Using a lightweight model for efficiency
@@ -338,4 +334,5 @@ def main():
                 st.json(results)
 
 if __name__ == "__main__":
+
     main()
