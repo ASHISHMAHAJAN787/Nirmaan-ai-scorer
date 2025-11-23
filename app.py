@@ -245,7 +245,7 @@ def main():
     # --- SIDEBAR LOGO & INFO ---
     with st.sidebar:
         # You can use a URL or a local file path for the image
-        st.image("https://share.google/images/nrX33JktXric80UlL.png", width=100)
+        st.image("https://share.google/images/nrX33JktXric80UlL", width=100)
         st.title("Nirmaan AI")
         st.markdown("---")
         st.markdown("**Instructions:**")
@@ -336,3 +336,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
