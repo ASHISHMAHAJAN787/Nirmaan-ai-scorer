@@ -15,7 +15,7 @@ The solution combines **Rule-based logic**, **Semantic NLP (Sentence Transformer
 
 ## 🚀 Live Demo
 - **Deployed App:** [https://nirmaan-ai-scorer-by-ashish-mahajan.streamlit.app/]
-- **Demo Video:** [INSERT YOUR VIDEO LINK HERE]
+- **Demo Video:** [https://drive.google.com/drive/folders/1pAZxAKzMl4b1btwwsPR174nhTpAoZ4KH?usp=drive_link]
 
 ---
 
@@ -46,3 +46,4 @@ Follow these steps to run the application on your local machine.
 ```bash
 git clone [https://github.com/ASHISHMAHAJAN787/Nirmaan-ai-scorer.git](https://github.com/ASHISHMAHAJAN787/Nirmaan-ai-scorer.git)
 cd nirmaan-ai-scorer
+
